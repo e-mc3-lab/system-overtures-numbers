@@ -1,2 +1,9 @@
 # system-overtures-numbers
-Grouper des projets sources et programmes pour les 3 preuves sur la théorie des nombres
+
+Grouper des projets sources et programmes pour les 3 preuves sur la théorie des nombres.
+Consulter le fichier LisezMoi.txt.
+
+======================================================================================================
+
+Group projects sources and programs for the 3 proofs in number theory.
+Consult the file Readme.txt.
